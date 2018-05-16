@@ -119,10 +119,10 @@ sap.ui.define([
 			var oView = this.getView();
 		
 				var oParams = {
-				q: "Istanbul",  // Get the weather in london
+				q: "Istanbul",  // Get the weather in Istanbul
 				units: "metric", 
-				appid: "81b8ac9c533cfa9b791544a4ab15b524",  // replace with your API key
-				cnt: 1,  // get weather for the next 16 days
+				appid: "****************************",  // replace with your API key
+				cnt: 1,  // get weather for the next 1 day
 				mode: "json"  // get it in JSON format 
 			};
 			
@@ -153,10 +153,10 @@ sap.ui.define([
 		_loadForecast1: function() {
 			var oView = this.getView();
 			var oParams = {
-				q: "Kocaeli",  // Get the weather in london
+				q: "Kocaeli",  // Get the weather in Kocaeli
 				units: "metric", 
-				appid: "81b8ac9c533cfa9b791544a4ab15b524",  // replace with your API key
-				cnt: 1,  // get weather for the next 16 days
+				appid: "********",  // replace with your API key
+				cnt: 1,  // get weather for the next 1 day
 				mode: "json"  // get it in JSON format 
 			};
 			
@@ -187,10 +187,10 @@ sap.ui.define([
 			_loadForecast2: function() {
 			var oView = this.getView();
 			var oParams = {
-				q: "Ankara",  // Get the weather in london
+				q: "Ankara",  // Get the weather in Ankara
 				units: "metric", 
-				appid: "81b8ac9c533cfa9b791544a4ab15b524",  // replace with your API key
-				cnt: 1,  // get weather for the next 16 days
+				appid: "*******",  // replace with your API key
+				cnt: 1,  // get weather for the next 1 day
 				mode: "json"  // get it in JSON format 
 			};
 			
