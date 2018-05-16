@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "Hava Durumu",
+        "description": "Hava Durumu",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#demo-Display",
+        "navigationComponentName": "mydemodemo",
+        "intentSemanticObject": "demo",
+        "intentAction": "Display",
+        "html5ApplicationName": "demo",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "13a35164-a92c-45a5-89b5-cedce7f1f14b"
+        ],
+        "contentPackages": [
+            "5145183a-364b-4f0c-8fe6-fbfc37a6c34a"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Hava Durumu",
+        "subtitle": "Technova",
+        "searchKeywords": "Hava Durumu,Technova",
+        "displayIconUrl": "sap-icon://weather-proofing",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
